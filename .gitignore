@@ -1,0 +1,4 @@
+spark-events
+spark-warehouse
+.envrc*
+*.jar
